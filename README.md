@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
@@ -25,3 +26,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+=======
+# Laravel5
+This is update first for project
+>>>>>>> 6a1816f1ba1d0050222b92685e3525384d77bfc6
